@@ -1,0 +1,2 @@
+# apartment-pricing-intelligence
+Goal: Build a modular apartment pricing intelligence pipeline that:  scrapes public apartment pricing/specials, stores historical data, exports to Excel, supports future analytics/dashboarding, and teaches professional engineering structure.
